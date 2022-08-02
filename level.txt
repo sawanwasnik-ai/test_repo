@@ -1,0 +1,1 @@
+f.write("Ye Ishq Tum Na Karna Ye Roag Roag Hi Lagaye Dafan Khudh Kare Hai Fir Sokh Bhi Manaye")
